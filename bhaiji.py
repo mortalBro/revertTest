@@ -1,0 +1,2 @@
+s="kamal"
+y="koli"
